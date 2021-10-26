@@ -1,4 +1,4 @@
-스프링 레디스 연동 연습
+# 스프링 레디스 연동 연습
 
 ## 1. 연결하기
 - application.yml 에 레디스 서버 정보(spring.redis.host, spring.redis.port) 설정

@@ -1,4 +1,4 @@
-#스프링 레디스 연동 연습
+##스프링 레디스 연동 연습
 
 ## 1. 연결하기
 - application.yml 에 레디스 서버 정보(spring.redis.host, spring.redis.port) 설정
@@ -9,7 +9,7 @@
 - 레파지토리 생성 (PersonRedisRepository.java)
 - 테스트생성 (redisTemplate, repository) 2가지 방식으로 진행
 
-## 4. 참고
+## 3. 참고
 1. https://docs.spring.io/spring-data/redis/docs/2.5.5/reference/html/#redis:connectors:lettuce
 2. https://docs.spring.io/spring-data/redis/docs/2.5.5/reference/html/#redis.repositories.usage
 3. https://sabarada.tistory.com/106?category=856943
